@@ -8,6 +8,7 @@
     "type": "git",
     "url": "git://github.com/anselmh/object-fit.git"
   },
+  "main": "dist/polyfill.object-fit.js",
   "bugs": {
     "url": "https://github.com/anselmh/object-fit/issues"
   },
